@@ -1,0 +1,13 @@
+{
+  "name": "aescrypto",
+  "version": "1.0.0",
+  "main": "aescrypto.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Chris Ineson",
+  "description": "aes_crypto",
+  "dependencies": {
+    "nconf": "^0.8.4"
+  }
+}
